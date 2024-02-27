@@ -6,7 +6,27 @@ This repo is adapted from [fastchat](https://github.com/lm-sys/FastChat/blob/mai
 
 Supported models: 
 ```
-['vicuna_v1.1', 'airoboros_v1', 'airoboros_v2', 'airoboros_v3', 'koala_v1', 'alpaca', 'chatglm', 'chatglm2', 'chatglm3', 'codegeex', 'dolly_v2', 'oasst_pythia', 'oasst_llama', 'openchat_3.5', 'tenyxchat', 'deepseek-coder', 'tulu', 'stablelm', 'baize', 'rwkv', 'openbuddy', 'phoenix', 'ReaLM-7b-v1', 'chatgpt', 'claude', 'metamath', 'mpt-7b-chat', 'mpt-30b-chat', 'lemur-70b-chat', 'mpt-30b-instruct', 'billa', 'redpajama-incite', 'h2ogpt', 'Robin', 'snoozy', 'manticore', 'falcon', 'polyglot_changgpt', 'tigerbot', 'xgen', 'internlm-chat', 'starchat', 'baichuan-chat', 'baichuan2-chat', 'mistral', 'llama-2', 'chinese-alpaca2', 'cutegpt', 'open-orca', 'mistral-7b-openorca', 'dolphin-2.2.1-mistral-7b', 'OpenHermes-2.5-Mistral-7B', 'Nous-Hermes-2-Mixtral-8x7B-DPO', 'qwen-7b-chat', 'Yi-34b-chat', 'aquila-chat', 'aquila-legacy', 'aquila', 'aquila-v1', 'llama2-chinese', 'vigogne_instruct', 'vigogne_chat_v2', 'stable-vicuna', 'vigogne_chat_v3', 'falcon-chat', 'phind', 'metharme', 'xdan-v1', 'zephyr', 'catppt', 'TinyLlama', 'orca-2', 'deepseek-chat', 'yuan2', 'solar', 'yuan', 'llava-chatml']
+['airoboros_v1', 'airoboros_v2', 'airoboros_v3', 'alpaca', 'aquila', 'aquila-chat', 'aquila-legacy', 'aquila-v1', 
+'baichuan-chat', 'baichuan2-chat', 'baize', 'billa', 
+'catppt', 'chatglm', 'chatglm2', 'chatglm3', 'chatgpt', 'chinese-alpaca2', 'claude', 'codegeex', 'cutegpt', 
+'deepseek-chat', 'deepseek-coder', 'dolly_v2', 'dolphin-2.2.1-mistral-7b', 
+'falcon', 'falcon-chat', 
+'h2ogpt', 
+'internlm-chat', 
+'koala_v1', 
+'lemur-70b-chat', 'llama-2', 'llama2-chinese', 'llava-chatml', 
+'manticore', 'metamath', 'metharme', 'mistral', 'mistral-7b-openorca', 'mpt-30b-chat', 'mpt-30b-instruct', 'mpt-7b-chat', 
+'Nous-Hermes-2-Mixtral-8x7B-DPO', 
+'oasst_llama', 'oasst_pythia', 'open-orca', 'openbuddy', 'openchat_3.5', 'OpenHermes-2.5-Mistral-7B', 'orca-2', 
+'phind', 'phoenix', 'polyglot_changgpt', 
+'qwen-7b-chat', 
+'ReaLM-7b-v1', 'redpajama-incite', 'Robin', 'rwkv', 
+'snoozy', 'solar', 'stable-vicuna', 'stablelm', 'starchat', 
+'tenyxchat', 'tigerbot', 'TinyLlama', 'tulu', 
+'vicuna_v1.1', 'vigogne_chat_v2', 'vigogne_chat_v3', 'vigogne_instruct', 
+'xdan-v1', 'xgen', 
+'Yi-34b-chat', 'yuan', 'yuan2', 
+'zephyr']
 ```
 
 Example usage:
