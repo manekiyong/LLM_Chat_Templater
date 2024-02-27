@@ -53,4 +53,11 @@ conversation = [
     }
 ]
 print(templater(conversation))
+
+# [INST] <<SYS>>
+# You're a helpful, respectful and honest assistant
+# <</SYS>>
+#
+# Hello! [/INST] Hi! </s><s>[INST] How are you? [/INST]
+
 ```
